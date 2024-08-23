@@ -2,9 +2,9 @@ digraph  {
 down;
 no_change;
 up;
-down -> down [key=0, weight=0.42395437262357416, label=0.42395437262357416];
-down -> no_change [key=0, weight=0.07224334600760456, label=0.07224334600760456];
-down -> up [key=0, weight=0.5038022813688213, label=0.5038022813688213];
+down -> down [key=0, weight=0.42314990512333966, label=0.42314990512333966];
+down -> no_change [key=0, weight=0.07210626185958255, label=0.07210626185958255];
+down -> up [key=0, weight=0.5047438330170778, label=0.5047438330170778];
 no_change -> down [key=0, weight=0.4927536231884058, label=0.4927536231884058];
 no_change -> no_change [key=0, weight=0.08695652173913043, label=0.08695652173913043];
 no_change -> up [key=0, weight=0.42028985507246375, label=0.42028985507246375];
